@@ -4,4 +4,6 @@ static void main()
 }
 }
 public
+class b
+{
 
